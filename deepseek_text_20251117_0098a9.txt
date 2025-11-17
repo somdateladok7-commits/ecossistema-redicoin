@@ -1,0 +1,28 @@
+redicoin-ecossistema/
+├── index.html
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+├── tsconfig.node.json
+├── src/
+│   ├── App.tsx
+│   ├── index.tsx
+│   ├── types.ts
+│   ├── hooks/
+│   │   └── useMockData.ts
+│   └── components/
+│       ├── Header.tsx
+│       ├── Painel.tsx
+│       ├── Reputacao.tsx
+│       ├── Sobre.tsx
+│       ├── DashboardCard.tsx
+│       ├── ReputationChart.tsx
+│       ├── ActivityFeed.tsx
+│       ├── InfoSection.tsx
+│       ├── WalletConnectModal.tsx
+│       ├── Toast.tsx
+│       ├── StakeModal.tsx
+│       ├── TransferModal.tsx
+│       ├── AddContactModal.tsx
+│       ├── AddressBook.tsx
+│       └── icons.tsx

@@ -1,0 +1,5 @@
+redicoin-ecossistema/
+├── src/
+│   ├── components/
+│   └── hooks/
+├── (arquivos principais aqui)
